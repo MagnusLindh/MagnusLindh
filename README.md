@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MagnusLindh
 - 👀 I’m interested in the web, games, AI and programming in general
 - 🌱 I’m currently learning Phaser and Babylon.js
-- 💞️ I’m looking to collaborate on a commuting app for ride sharing
+- 💞️ I’m looking to collaborate on any game project, especially web based
 - 📫 How to reach me gnumas@hotmail.com
 
 <!---
